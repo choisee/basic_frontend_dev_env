@@ -9,6 +9,7 @@
 - about mock data & connect-api-mocker 
 - using axios
 - resolve CORS issue using proxy
+- update edited module only (module.hot)
 
 ---
 
